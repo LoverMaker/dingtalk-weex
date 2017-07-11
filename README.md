@@ -1,6 +1,4 @@
-## {{ name }}
-
-> {{ description }}
+## Weex Dingtalk
 
 ## 项目介绍
 
